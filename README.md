@@ -1,6 +1,6 @@
 # NoteApp
 
-## C# NoteKeeper Mobile App
+## C# NoteKeeper Mobile App using Xamarin
 
 ![screenshot](images/PhoneApp.png)
 
